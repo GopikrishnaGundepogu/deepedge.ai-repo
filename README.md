@@ -18,5 +18,5 @@ To run the code, follow these steps:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/pixel-coordinate-prediction.git
-   cd pixel-coordinate-prediction
+   git clone [https://github.com/your-username/pixel-coordinate-prediction.git
+   cd pixel-coordinate-prediction](https://github.com/GopikrishnaGundepogu)
